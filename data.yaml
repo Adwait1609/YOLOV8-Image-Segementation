@@ -1,0 +1,7 @@
+train: "C:/Users/USER/OneDrive/Desktop/data/train/images"
+val: "C:/Users/USER/OneDrive/Desktop/data/valid/images"
+test: "C:/Users/USER/OneDrive/Desktop/data/test/images"
+
+nc: 2
+names: ['biscuit', 'glass']
+
